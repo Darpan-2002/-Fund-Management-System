@@ -41,7 +41,7 @@ const Medical = () => {
       <Navbar />
       <Option />
       <Routes>
-        <Route path="/form" exact element={<Form />} />
+        <Route path="/Form" exact element={<Form />} />
         <Route path="/Data" element={<Data />} />
       </Routes>
       <Alert />
