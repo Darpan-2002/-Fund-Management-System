@@ -5,6 +5,8 @@ import Form from "./Form/Form";
 import Navbar from "./Navbar/Navbar";
 import Option from "./Option/Option";
 import SectionLinks from "../SectionLinks/SectionLinks";
+import Medical from "./Medical/Medical";
+import Home from "./Home/Home";
 import Navbarnew from "./Navbarnew/Navbarnew";
 import { useEffect } from "react";
 import { useDispatch } from "react-redux";
@@ -18,6 +20,9 @@ import {
 } from "../store/interactions";
 import config from "../config.json";
 import Alert from "./Alert/Alert";
+import About from "./About/About";
+import Contact from "./Contact/Contact";
+import Disaster from "./Disaster/Disaster";
 function App() {
   const dispatch = useDispatch();
   const loadBlockchainData = async () => {
@@ -40,8 +45,8 @@ function App() {
   return (
     
     <div className="App">
-      <Navbarnew/>
-      {/* <div className="navbar">
+      {/* <Navbarnew/>
+      <div className="navbar">
         <Navbar />
         <Option />
         <Routes>
@@ -50,14 +55,21 @@ function App() {
         </Routes>
         <Alert />
       </div> */}
-      <div className="content">
+      {/* <div className="content">
         <h1>Welcome to Fund Management website</h1>
         <p>A blockchain-based fund management system leverages the decentralized, transparent, and secure nature of blockchain technology to revolutionize the management of investment funds. By utilizing smart contracts, the system ensures that all transactions and fund allocations are executed automatically based on predefined rules, reducing the need for intermediaries and minimizing the risk of human error. Investors benefit from enhanced transparency as all transactions are recorded on the blockchain, allowing for real-time auditing and verification. The immutable ledger also provides increased security against fraud and tampering.</p>
         <div className='hello' > 
           <img src="https://res.cloudinary.com/priyojit/image/upload/v1713957627/vjxexasxhrothofjip4r.png" alt=""  width={250} height={250}/>
-          </div>
-        <SectionLinks />
-      </div>
+          </div> */}
+        {/* <SectionLinks /> */}
+        <Routes>
+        <Route path="/" element={<Home/>} />
+        <Route path="/about" element={<About/>} />
+          <Route path="/medical" element={<Medical/>} />
+          <Route path="/contact" element={<Contact/>} />
+          <Route path="/disaster" element={<Disaster/>} />
+        </Routes>
+      {/* </div> */}
     </div>
   );
 }

@@ -34,10 +34,10 @@ const Navbarnew = () => {
               <NavLink to="/contact">Contact</NavLink>
             </li>
             <li>
-              <NavLink to="/contact">Team</NavLink>
+              <NavLink to="/medical">Medical</NavLink>
             </li>
             <li>
-              <NavLink to="/contact">Contact</NavLink>
+              <NavLink to="/disaster">Disaster</NavLink>
             </li>
           </ul>
         </div>
