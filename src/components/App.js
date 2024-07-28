@@ -23,6 +23,7 @@ import Alert from "./Alert/Alert";
 import About from "./About/About";
 import Contact from "./Contact/Contact";
 import Disaster from "./Disaster/Disaster";
+import Team from "./Team/Team";
 function App() {
   const dispatch = useDispatch();
   const loadBlockchainData = async () => {
@@ -65,10 +66,10 @@ function App() {
         <Routes>
         <Route path="/" element={<Home/>} />
         <Route path="/about" element={<About/>} />
-          <Route path="/medical" element={<Medical/>} />
           <Route path="/contact" element={<Contact/>} />
-          <Route path="/disaster" element={<Disaster/>} />
+          <Route path="/team" element={<Team/>} />
         </Routes>
+        {/* <SectionLinks /> */}
       {/* </div> */}
     </div>
   );

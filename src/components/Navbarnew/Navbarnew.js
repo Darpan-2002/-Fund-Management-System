@@ -34,10 +34,7 @@ const Navbarnew = () => {
               <NavLink to="/contact">Contact</NavLink>
             </li>
             <li>
-              <NavLink to="/medical">Medical</NavLink>
-            </li>
-            <li>
-              <NavLink to="/disaster">Disaster</NavLink>
+              <NavLink to="/team">Team</NavLink>
             </li>
           </ul>
         </div>
