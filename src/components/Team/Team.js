@@ -10,7 +10,7 @@ const teamMembers = [
     // role: 'Frontend Developer',
     linkedin: 'https://www.linkedin.com/in/kaushik-deka-710869224/',
     github: 'https://github.com/K2302',
-    imgSrc: 'https://via.placeholder.com/150'
+    imgSrc: 'https://res.cloudinary.com/priyojit/image/upload/v1722160118/WhatsApp_Image_2024-07-28_at_3.12.20_PM_om0lzl.jpg'
   },
   {
     name: 'Priyajit Paul',
@@ -24,14 +24,14 @@ const teamMembers = [
     // role: 'UI/UX Designer',
     linkedin: 'https://www.linkedin.com/in/darpan-deka-63a291231/',
     github: 'https://github.com/Darpan-2002',
-    imgSrc: 'https://via.placeholder.com/150'
+    imgSrc: 'https://res.cloudinary.com/priyojit/image/upload/v1722159080/WhatsApp_Image_2024-07-28_at_2.58.01_PM_eq557w.jpg'
   },
   {
     name: 'Chinmoy Dutta',
     // role: 'Project Manager',
     linkedin: 'https://www.linkedin.com/in/duttachinmoy17/',
     github: 'https://github.com/csechinmoy1234',
-    imgSrc: 'https://via.placeholder.com/150'
+    imgSrc: 'https://res.cloudinary.com/priyojit/image/upload/v1722160116/WhatsApp_Image_2024-07-28_at_3.12.48_PM_syh6zd.jpg'
   }
 ];
 
