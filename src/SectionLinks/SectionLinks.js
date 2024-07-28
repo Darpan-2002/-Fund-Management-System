@@ -11,10 +11,10 @@ const SectionLinks = () => {
         <a href="/disaster">Disaster</a>
       </div>
       <div className="section-box">
-        <a href="/services">Services</a>
+        <a href="/services">Education</a>
       </div>
       <div className="section-box">
-        <a href="/personal">Personal</a>
+        <a href="/personal">Infrastructure</a>
       </div>
     </div>
   );
