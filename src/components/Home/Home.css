@@ -1,0 +1,18 @@
+.hello {
+    margin-top: 60px;
+    margin-bottom: -10px;
+  }
+  
+  .about-photo {
+    border-radius: 20px;
+  }
+  
+  .about-text {
+    max-width: 450px;
+    margin-left: 20px;
+  }
+
+  .hello1{
+    border-radius: 28px;
+    border: 25px solid white;
+  }
