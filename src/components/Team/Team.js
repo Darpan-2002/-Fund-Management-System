@@ -7,31 +7,31 @@ import { FaLinkedin, FaGithub } from 'react-icons/fa';
 const teamMembers = [
   {
     name: 'Kaushik Deka',
-    role: 'Frontend Developer',
-    linkedin: 'https://www.linkedin.com/in/johndoe',
-    github: 'https://github.com/johndoe',
-    imgSrc: 'https://via.placeholder.com/150'
+    // role: 'Frontend Developer',
+    linkedin: 'https://www.linkedin.com/in/kaushik-deka-710869224/',
+    github: 'https://github.com/K2302',
+    imgSrc: 'https://res.cloudinary.com/priyojit/image/upload/v1722160118/WhatsApp_Image_2024-07-28_at_3.12.20_PM_om0lzl.jpg'
   },
   {
     name: 'Priyajit Paul',
-    role: 'Backend Developer',
-    linkedin: 'https://www.linkedin.com/in/janesmith',
-    github: 'https://github.com/janesmith',
-    imgSrc: 'https://via.placeholder.com/150'
+    // role: 'Backend Developer',
+    linkedin: 'https://www.linkedin.com/in/priyajit-paul-4b4840213/',
+    github: 'https://github.com/priyajit27',
+    imgSrc: 'https://res.cloudinary.com/priyojit/image/upload/v1722155255/WhatsApp_Image_2024-07-28_at_1.57.07_PM_anoctm.jpg'
   },
   {
     name: 'Darpan Deka',
-    role: 'UI/UX Designer',
-    linkedin: 'https://www.linkedin.com/in/bobjohnson',
-    github: 'https://github.com/bobjohnson',
-    imgSrc: 'https://via.placeholder.com/150'
+    // role: 'UI/UX Designer',
+    linkedin: 'https://www.linkedin.com/in/darpan-deka-63a291231/',
+    github: 'https://github.com/Darpan-2002',
+    imgSrc: 'https://res.cloudinary.com/priyojit/image/upload/v1722159080/WhatsApp_Image_2024-07-28_at_2.58.01_PM_eq557w.jpg'
   },
   {
-    name: 'Chinmoy',
-    role: 'Project Manager',
-    linkedin: 'https://www.linkedin.com/in/alicebrown',
-    github: 'https://github.com/alicebrown',
-    imgSrc: 'https://via.placeholder.com/150'
+    name: 'Chinmoy Dutta',
+    // role: 'Project Manager',
+    linkedin: 'https://www.linkedin.com/in/duttachinmoy17/',
+    github: 'https://github.com/csechinmoy1234',
+    imgSrc: 'https://res.cloudinary.com/priyojit/image/upload/v1722160116/WhatsApp_Image_2024-07-28_at_3.12.48_PM_syh6zd.jpg'
   }
 ];
 
