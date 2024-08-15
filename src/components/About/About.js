@@ -14,12 +14,11 @@ const About = () => {
       <div className="about-text">
         <h2>About Us</h2>
         <p>
-          Welcome to our company! We are dedicated to providing the best services
-          to our clients. Our team is composed of highly skilled professionals
-          who are passionate about their work. We believe in continuous
-          improvement and strive to exceed expectations in every project we
-          undertake. Thank you for visiting our website, and we look forward to
-          working with you.
+          Welcome to the  Fund Management website! Public fund management in sectors like health, education, natural disaster relief, and road construction is 
+plagued by inefficiencies, lack of transparency, and vulnerability to fraud. Traditional systems fail to ensure 
+secure, accountable, and traceable transactions, leading to the misallocation of resources and erosion of public 
+trust. This project aims to develop a Blockchain-Based Fund Management System to enhance transparency, 
+security, and accountability, reducing the risk of illegal money fraud and ensuring ethical fund allocation.
         </p>
       </div>
     </div>
