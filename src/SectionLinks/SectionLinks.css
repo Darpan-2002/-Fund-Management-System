@@ -1,9 +1,9 @@
 .section-container {
     display: flex;
-    margin-top: 100px;
+    margin-top: 60px;
     justify-content: space-around;
     align-items: center;
-    padding: 2rem;
+    padding: 1rem;
     /* background-color: #f0f0f0; */
     background-image: linear-gradient(to right, rgb(155, 54, 54) , rgb(38, 31, 186));
   }

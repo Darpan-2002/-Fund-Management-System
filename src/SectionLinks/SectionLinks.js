@@ -5,16 +5,16 @@ const SectionLinks = () => {
   return (
     <div className="section-container">
       <div className="section-box">
-        <a href="/medical">Medical</a>
+        <a href="https://healthcare-pi-one.vercel.app/">Medical</a>
       </div>
       <div className="section-box">
-        <a href="/disaster">Disaster</a>
+        <a href="https://disaster-lake.vercel.app/">Disaster</a>
       </div>
       <div className="section-box">
-        <a href="/services">Education</a>
+        <a href="https://education-theta-one.vercel.app/">Education</a>
       </div>
       <div className="section-box">
-        <a href="/personal">Infrastructure</a>
+        <a href="https://insfrastructure.vercel.app/">Infrastructure</a>
       </div>
     </div>
   );
