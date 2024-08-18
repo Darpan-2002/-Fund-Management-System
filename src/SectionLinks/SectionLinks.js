@@ -14,7 +14,7 @@ const SectionLinks = () => {
         <a href="https://education-theta-one.vercel.app/">Education</a>
       </div>
       <div className="section-box">
-        <a href="https://insfrastructure.vercel.app/">Infrastructure</a>
+        <a href="https://insfrastructure.vercel.app/">Road and infrastructure</a>
       </div>
     </div>
   );
