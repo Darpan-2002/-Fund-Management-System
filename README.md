@@ -20,7 +20,8 @@ This project is a decentralized fund management system built using blockchain te
 - Node.js and npm
 - MetaMask or another Web3 wallet
 - An Ethereum test network (e.g., Rinkeby, Goerli) for testing purposes
-##Preview
+  
+## Preview
 https://fund-management-system.vercel.app/
 
 ## Getting Started
